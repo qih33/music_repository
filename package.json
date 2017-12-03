@@ -11,8 +11,11 @@
     "url": "git+https://github.com/qih33/music_repository.git"
   },
   "keywords": [],
-  "author": "QQ",
-  "license": "ISC",
+  "author": {
+    "name": "Qing Qing he",
+    "email": "qingqinghe916@hotmail.com"
+  },
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/qih33/music_repository/issues"
   },
