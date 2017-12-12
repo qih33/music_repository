@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+
+}
+
+html,body,ul,ol {
+  margin: 0;
+  padding: 0;
+}
+
+ul,ol {
+  list-style: none;
+}
+
+#layout {
+  max-width: 1020px;
+  margin: 0 auto;
+}
+
+h1，h2 {
+  margin: 0;
+  font-weight: normal;
+}
+
+#header {
+  height: 44px;
+  background: #31c27c;
+}
