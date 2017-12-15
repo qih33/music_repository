@@ -33,6 +33,11 @@
         "picUrl": "http://y.gtimg.cn/music/photo/radio/track_radio_199_13_1.jpg",
         "Ftitle": "热歌",
         "radioid": 199
+      },
+      {
+        "picUrl": "http://y.gtimg.cn/music/photo/radio/track_radio_199_13_1.jpg",
+        "Ftitle": "一人一首招牌歌",
+        "radioid": 199
       }
     ],
     "songList": [
@@ -83,10 +88,19 @@
       },
       {
         "songListDesc": "trip-hop单曲大推荐",
-        "picUrl": "http://y.gtimg.cn/music/photo_new/T005R600x600M000002CJKAY1LKpcz.jpg?n=1",
+        "picUrl": "http://y.gtimg.cn/music/photo/radio/track_radio_126_10_4.jpg?n=1",
         "id": "3482605622",
         "accessnum": 356730,
         "songListAuthor": "哑忍",
+        "pic_mid": "000xFtbN1l8ye8",
+        "album_pic_mid": "004aOQhn3PPOpK"
+      },
+      {
+        "songListDesc": "trip-hop单曲大推荐",
+        "picUrl": "http://y.gtimg.cn/music/photo/radio/track_radio_314_10_8.jpg?n=1",
+        "id": "3482605622",
+        "accessnum": 356730,
+        "songListAuthor": "店铺",
         "pic_mid": "000xFtbN1l8ye8",
         "album_pic_mid": "004aOQhn3PPOpK"
       }

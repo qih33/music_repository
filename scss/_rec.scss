@@ -1,5 +1,5 @@
-.list.radio {
-    margin: 14px 10px 10px;
+.radios， .playlists {
+    margin: 14px 0 10px 10px;
     .title {
         font-size: 16px;
         color: #000;
@@ -10,8 +10,44 @@
       display: flex;
       flex-wrap: wrap;
       .list-item {
+        background: #fff;
         flex: 1;
         flex-basis: 50%;
+        margin-right: 10px;
+        margin-bottom: 10px;
+        font-size : 14px;
+        &:first-child{
+          margin-right: 8px;
+        }
+        .list-media {
+          position: relative;
+        }
+
+        .list-title {
+          height: 36px;
+          margin-top: 7px;
+          padding: 0 7px 5px;
+        }
+        .icon {
+          background-repeat: no-repeat;
+          background-size: 70px 70px;
+          background-image: url("../images/cover_play.png");
+          background-position: 50%;
+          cursor: pointer;
+          position: absolute;
+          top: 0%;
+          left: 0%;
+          width: 100%;
+          height: 100%;
+          display: block;
+          opacity: 0;
+        }
+
+
+        .icon:hover{
+          opacity: 1;
+        }
+
         img{
           width: 100%;
           display: block;
